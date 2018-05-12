@@ -17,6 +17,7 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 the project and course.
 
 Project Description
+
 Using data from Morningstar, I will explore the way in which data breaches affect on the shareholder values of 11 companies in various industries. Through an analysis of stock prices in the 10-day period surrounding the report of the data breach of each company, the research will illustrate the effect of the data breach on the company's stock performance before, during, and after the breach as well as each industry's trends in reaction to breaches.
 
 Data breaches are the subject of today's news, with people resorting to boycotting Facebook to protect their data from being shared with unauthorized third parties, whether intentionally or not. Facebook has reported reduced advertising revenues following large breaches and even a shift towards more user-produced content rather than branded and sponsored content.
