@@ -21,6 +21,3 @@ Project Description
 
 Using data from Morningstar, I will explore the way in which data breaches affect on the shareholder values of 11 companies in various industries. Through an analysis of stock prices in the 10-day period surrounding the report of the data breach of each company, the research will illustrate the effect of the data breach on the company's stock performance before, during, and after the breach as well as each industry's trends in reaction to breaches.
 
-Data breaches are the subject of today's news, with people resorting to boycotting Facebook to protect their data from being shared with unauthorized third parties, whether intentionally or not. Facebook has reported reduced advertising revenues following large breaches and even a shift towards more user-produced content rather than branded and sponsored content.
-
-The stock data for this project will come from Morningstar, specifically for an 11 day period, with the data breach report placed at the center of the date range, or timeline. Each company will have its data extracted from morningstar and placed alongside that of the others for individual as well as comparative analysis across companies and industries.
